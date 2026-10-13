@@ -37,8 +37,8 @@ I am passionate about exploring data, building machine learning models, and solv
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ඔබේ-username-එක-මෙතැනට-දාන්න]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ඔබේ-username-එක-මෙතැනට-දාන්න]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerasl27&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerasl27&layout=compact&theme=radical)
 
 ---
 
